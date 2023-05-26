@@ -7,7 +7,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.StudentInformation", "01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Passed", "02.Passed\02.Passed.csproj", "{3366980E-DE58-41C4-A49B-7A79551345CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PassedOrFailed", "03.PassedOrFailed\03.PassedOrFailed.csproj", "{14AE4DBD-09E2-46B3-99FC-89CBBD45529E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PassedOrFailed", "03.PassedOrFailed\03.PassedOrFailed.csproj", "{14AE4DBD-09E2-46B3-99FC-89CBBD45529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BackIn30Minutes", "04.BackIn30Minutes\04.BackIn30Minutes.csproj", "{5B3C2559-1B72-4A65-B92F-C8FE81A99B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MonthPrinter", "05.MonthPrinter\05.MonthPrinter.csproj", "{06F1B1C2-BE11-4148-A6F8-26B64A78998D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ForeignLanguages", "06.ForeignLanguages\06.ForeignLanguages.csproj", "{F794C29F-5762-4E49-BB16-209A064B9168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheatrePromotion", "07.TheatrePromotion\07.TheatrePromotion.csproj", "{12DB6D4C-13B1-4D00-876E-3EDEF05628A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DivisibleBy3", "08.DivisibleBy3\08.DivisibleBy3.csproj", "{12F8DFAA-C2D1-4D80-B376-1F0E31A8ACB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SumOfOddNumbers", "09.SumOfOddNumbers\09.SumOfOddNumbers.csproj", "{CA49AB1D-6A8A-409C-835A-61FE395F96D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplicationTable", "10.MultiplicationTable\10.MultiplicationTable.csproj", "{4E26461E-8E8D-45A6-9BAA-7CF36EFAD914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.MultiplicationTable2.0", "11.MultiplicationTable2.0\11.MultiplicationTable2.0.csproj", "{BBA52F48-034E-43DF-AA87-1F20D91E3880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.EvenNumber", "12.EvenNumber\12.EvenNumber.csproj", "{AE5F3547-B839-428A-8C6B-4A00D4E248EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.HolidaysBetweenTwoDates", "13.HolidaysBetweenTwoDates\13.HolidaysBetweenTwoDates.csproj", "{76F0B600-3064-468C-B3D5-41AD92B88B53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +47,46 @@ Global
 		{14AE4DBD-09E2-46B3-99FC-89CBBD45529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14AE4DBD-09E2-46B3-99FC-89CBBD45529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14AE4DBD-09E2-46B3-99FC-89CBBD45529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3C2559-1B72-4A65-B92F-C8FE81A99B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3C2559-1B72-4A65-B92F-C8FE81A99B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3C2559-1B72-4A65-B92F-C8FE81A99B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3C2559-1B72-4A65-B92F-C8FE81A99B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F1B1C2-BE11-4148-A6F8-26B64A78998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F1B1C2-BE11-4148-A6F8-26B64A78998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F1B1C2-BE11-4148-A6F8-26B64A78998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F1B1C2-BE11-4148-A6F8-26B64A78998D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F794C29F-5762-4E49-BB16-209A064B9168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F794C29F-5762-4E49-BB16-209A064B9168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F794C29F-5762-4E49-BB16-209A064B9168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F794C29F-5762-4E49-BB16-209A064B9168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DB6D4C-13B1-4D00-876E-3EDEF05628A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DB6D4C-13B1-4D00-876E-3EDEF05628A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DB6D4C-13B1-4D00-876E-3EDEF05628A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DB6D4C-13B1-4D00-876E-3EDEF05628A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F8DFAA-C2D1-4D80-B376-1F0E31A8ACB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F8DFAA-C2D1-4D80-B376-1F0E31A8ACB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F8DFAA-C2D1-4D80-B376-1F0E31A8ACB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F8DFAA-C2D1-4D80-B376-1F0E31A8ACB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA49AB1D-6A8A-409C-835A-61FE395F96D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA49AB1D-6A8A-409C-835A-61FE395F96D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA49AB1D-6A8A-409C-835A-61FE395F96D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA49AB1D-6A8A-409C-835A-61FE395F96D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E26461E-8E8D-45A6-9BAA-7CF36EFAD914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E26461E-8E8D-45A6-9BAA-7CF36EFAD914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E26461E-8E8D-45A6-9BAA-7CF36EFAD914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E26461E-8E8D-45A6-9BAA-7CF36EFAD914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA52F48-034E-43DF-AA87-1F20D91E3880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA52F48-034E-43DF-AA87-1F20D91E3880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA52F48-034E-43DF-AA87-1F20D91E3880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA52F48-034E-43DF-AA87-1F20D91E3880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5F3547-B839-428A-8C6B-4A00D4E248EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5F3547-B839-428A-8C6B-4A00D4E248EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5F3547-B839-428A-8C6B-4A00D4E248EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5F3547-B839-428A-8C6B-4A00D4E248EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F0B600-3064-468C-B3D5-41AD92B88B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F0B600-3064-468C-B3D5-41AD92B88B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F0B600-3064-468C-B3D5-41AD92B88B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F0B600-3064-468C-B3D5-41AD92B88B53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
