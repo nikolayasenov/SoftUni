@@ -10,10 +10,15 @@
                 .Select(int.Parse)
                 .ToArray();
             int rotations = int.Parse(Console.ReadLine());
-            for (int i = 0; i < rotations; i++)
+            for (int rot = 1; rot <= rotations; rot++)
             {
-                array[0] = array[array.Length - 1];
-                array[array.Length - 1] = array[0];
+                int firstElement = array[0];
+                for (int i = 1; i < array.Length; i++)
+                {
+                    array[i - 1] = array[i];
+                }
+                array[array.Length - 1] = firstElement;
+
             }
             Console.WriteLine(string.Join(" ", array));
         }
